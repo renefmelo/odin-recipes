@@ -1,0 +1,48 @@
+body {
+	background-color: hsl(23, 10%, 10%);
+	font-family: "Helvetica", serif;
+	color: hsl(23, 100%, 100%);
+}
+
+a {
+	color: hsl(23, 100%, 100%);
+}
+
+.menu {
+	width: 640px;
+	max-width: 100%;
+	margin: auto;
+	background-color: hsl(23, 10%, 15%);
+	padding: 5px 5px 10px 5px;
+}
+
+.titulo-card {
+	text-align: center;
+	margin-top: 0px;
+}
+
+
+h1 {
+	margin: 0px;
+}
+
+.lista-receitas {
+	padding-left: 20px;
+	margin-bottom: 0px;
+}
+
+li a{
+	position: relative;
+	left: -5px;
+}
+
+img {
+	vertical-align: middle;
+	margin: auto;
+	display: block;
+}
+
+p {
+	padding: 10px;
+	margin: 5px auto;
+}
